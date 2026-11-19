@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="72" viewBox="0 0 1040 72" role="img" aria-labelledby="title">
+<title id="title">Cyan and violet footer wave</title>
+<defs><linearGradient id="a"><stop stop-color="#5ceaff"/><stop offset="1" stop-color="#ad8bff"/></linearGradient></defs>
+<style>.wave{animation:wave 9s ease-in-out infinite alternate;transform-origin:center}.wave-back{animation-direction:alternate-reverse}@keyframes wave{from{transform:translateX(-24px) scaleY(.78)}to{transform:translateX(24px) scaleY(1.13)}}@media(prefers-reduced-motion:reduce){.wave{animation:none}}</style>
+<path class="wave wave-back" d="M-50 49C110 81 202 4 345 29s216 45 365 9 249-17 410 12" fill="none" stroke="url(#a)" stroke-width="2" opacity=".44"/>
+<path class="wave" d="M-50 55C130 17 219 64 375 37s202-14 342 9 265-39 403-7" fill="none" stroke="url(#a)" stroke-width="3"/>
+</svg>

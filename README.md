@@ -1,51 +1,81 @@
-# Uday Raghavendra
+# Udaya Raghavendra
 
-![Uday Raghavendra — animated orbital scene with stacked 3D layers](profile-orbit.gif)
+![Udaya Raghavendra, also known as Uday. Aspiring data analyst, MERN developer, and machine learning learner.](assets/header.svg)
 
-I build full-stack web applications and use Python notebooks to explore forecasting and classification.
+[3D portfolio](https://udayparimi.github.io/Udayparimi/) · [Featured projects](#featured-projects) · [Contact](#contact)
 
-[Applied machine learning](#applied-machine-learning) · [Full-stack apps](#full-stack-apps) · [Hotel tracker builds](#hotel-tracker-builds)
+## About me
 
-## Applied machine learning
+I’m Uday, a first-year MCA student at **CHRIST (Deemed to be University), Bengaluru**. I earned a **BCA in Data Science** at Acharya Institute of Graduate Studies, Bengaluru (2023–2026). I’m pursuing a career in **data analytics** and also build full-stack applications with MongoDB, Express, React, and Node.js.
 
-[![Animated isometric forecast bars](project-forecast.gif)](https://github.com/Udayparimi/sales-forecasting-arima-prophet-lstm)
+**Currently working on** state-wise UPI adoption analysis in India using NPCI data for my MCA research.  
+**Currently learning** applied data analytics and machine learning.
 
-- [**Sales forecasting**](https://github.com/Udayparimi/sales-forecasting-arima-prophet-lstm) — Daily grocery sales forecasting on Kaggle Store Sales using SARIMAX, Prophet, and LSTM. `Python · Jupyter`
+## Featured projects
 
-[![Animated isometric classification grid](project-churn.gif)](https://github.com/Udayparimi/customer-churn-prediction)
+| Project | What it does | Stack | Repo / Demo |
+| --- | --- | --- | --- |
+| **Hotel Payment Tracker** | Track hotel payments and registrations in an app that evolved from HTML and JavaScript to MERN. | HTML · JavaScript · MERN | [Repo](https://github.com/Udayparimi/FSD-Lab5-and-6) |
+| **Campus Event Management System** | Students discover and register for events while admins manage the event lifecycle. | React · Express · Node.js · MongoDB | [Repo](https://github.com/Udayparimi/Campus-event-management) |
+| **Student Project Tracker** | Create, update, and organize student projects by status. | React · Express · Node.js · MongoDB | [Repo](https://github.com/Udayparimi/FSD-CIA-3) |
+| **Registration Form with CRUD** | Create, view, update, and delete registration records. | React · Express · Node.js · MongoDB | — |
+| **State-wise UPI Adoption in India** | MCA research project examining differences in UPI adoption across Indian states using NPCI data. | Data analytics · NPCI data | — |
+| **Graph Algorithms in C** | Implement topological sorting and minimum spanning trees with Prim’s and Kruskal’s algorithms. | C · Data structures · Graph algorithms | — |
 
-- [**Customer churn prediction**](https://github.com/Udayparimi/customer-churn-prediction) — Telco churn classification with logistic regression, random forest, and XGBoost. `Python · Jupyter`
+[Sales forecasting notebook](https://github.com/Udayparimi/sales-forecasting-arima-prophet-lstm) · [Customer churn notebook](https://github.com/Udayparimi/customer-churn-prediction) · [All repositories](https://github.com/Udayparimi?tab=repositories)
 
+## Tech stack
 
-## Full-stack apps
-
-[![Animated isometric campus event tiles](project-campus.gif)](https://github.com/Udayparimi/Campus-event-management)
-
-- [**Campus events & workshops**](https://github.com/Udayparimi/Campus-event-management) — Student event discovery and registration, with a role-based admin workflow. `React · Express · MongoDB · JWT`
-
-- [**Campus events · FSD-ETE**](https://github.com/Udayparimi/FSD-ETE) — The same campus events system is documented in this repository. `React · Express · MongoDB · JWT`
-[![Animated isometric project board](project-student.gif)](https://github.com/Udayparimi/FSD-CIA-3)
-
-- [**Student project tracker**](https://github.com/Udayparimi/FSD-CIA-3) — A MERN app with a project form and list for tracking student projects. `React · Express · MongoDB`
-
-
-## Hotel tracker builds
-
-[![Animated isometric hotel tracker stack](project-hotel.gif)](https://github.com/Udayparimi/FSD-Lab9-10)
-
-A series of builds that covers responsive pages, browser storage, APIs, and React and Next.js frontends.
-
-| Interface and browser storage | API and framework builds |
+| | |
 | --- | --- |
-| [Payment tracking dashboard](https://github.com/Udayparimi/Payment-Tracking-dashboard) — Search, filter, add and delete payments, with revenue statistics stored locally. | [Hotel tracker · FSD Lab 4](https://github.com/Udayparimi/FSD-Lab4) — Hotel payment and registration workflows backed by a REST API and MongoDB. |
-| [Hotel payment tracking system](https://github.com/Udayparimi/hotel-payment-tracking-system) — Responsive multi-page interface for payments, reports and analytics. | [HotelPay · FSD Labs 5–6](https://github.com/Udayparimi/FSD-Lab5-and-6) — React/Vite frontend with an Express and MongoDB backend. |
-| [Hotel tracker · Lab 2](https://github.com/Udayparimi/Hotel-Payment-Tracker-Lab2) — Payment modal, dashboard, reports and browser local storage. | [Hotel tracker · Lab 7](https://github.com/Udayparimi/hotel-payment-tracker-Lab7) — React project in the hotel-tracker-react directory. |
-| [Hotel tracker · Lab 3](https://github.com/Udayparimi/Hotel-Payment-Tracker-Lab3) — Customer registration with form validation and local storage. | [Hotel tracker · FSD Lab 8](https://github.com/Udayparimi/FSD-Lab8) — Static staff dashboard with REST APIs and optional email sending. |
-| [Hotel tracker · Lab 4](https://github.com/Udayparimi/Hotel-Payment-Tracker-Lab4) — Payment CRUD with reports and analytics that update as records change. | [Hotel tracker · React rewrite](https://github.com/Udayparimi/FSD-Lab08) — Five static pages reworked into a React Router single-page app. |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-245581?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-384A7D?style=flat-square) ![C](https://img.shields.io/badge/C-315076?style=flat-square&logo=c&logoColor=white) |
+| **Web** | ![React](https://img.shields.io/badge/React-285769?style=flat-square&logo=react&logoColor=white) ![Express](https://img.shields.io/badge/Express-34384C?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-286047?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Data and databases** | ![Oracle](https://img.shields.io/badge/Oracle-A02C47?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-245581?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-286047?style=flat-square&logo=mongodb&logoColor=white) ![Data analytics](https://img.shields.io/badge/Data%20analytics-4D406D?style=flat-square) ![Machine learning](https://img.shields.io/badge/Machine%20learning-4D406D?style=flat-square) |
+| **Tools** | ![GitHub](https://img.shields.io/badge/GitHub-34384C?style=flat-square&logo=github&logoColor=white) |
 
-## Profile source
+![Cyan and violet data signal divider](assets/signal.svg)
 
-- [**GitHub profile README**](https://github.com/Udayparimi/Udayparimi) — Repository that supplies the GitHub profile overview. `Markdown`
+## GitHub activity
 
-[View repositories on GitHub](https://github.com/Udayparimi?tab=repositories)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Udayparimi&amp;hide_border=true&amp;show_icons=true&amp;theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Udayparimi&amp;hide_border=true&amp;show_icons=true&amp;theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=Udayparimi&amp;hide_border=true&amp;show_icons=true&amp;theme=default" alt="GitHub activity statistics">
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Udayparimi&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Udayparimi&amp;layout=compact&amp;hide_border=true&amp;theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udayparimi&amp;layout=compact&amp;hide_border=true&amp;theme=default" alt="Most used languages by repository code size">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Udayparimi&amp;theme=github-dark-blue&amp;hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Udayparimi&amp;theme=default&amp;hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=Udayparimi&amp;theme=default&amp;hide_border=true" alt="GitHub contribution streak">
+</picture>
+
+[View GitHub activity and repositories](https://github.com/Udayparimi)
+
+<details>
+<summary>Contribution snake and 3D calendar</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/snake-light.svg" alt="Animated snake traversing the GitHub contribution grid">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/calendar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/calendar-light.svg">
+  <img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/calendar-light.svg" alt="Isometric calendar of GitHub contributions">
+</picture>
+
+</details>
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/udaya-raghavendra-9a846137b/)
+
+![Animated cyan and violet footer wave](assets/footer.svg)

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="48" viewBox="0 0 1040 48" role="img" aria-labelledby="title">
+<title id="title">Data signal divider</title>
+<defs><linearGradient id="a"><stop stop-color="#40dfff"/><stop offset="1" stop-color="#a474ff"/></linearGradient></defs>
+<style>@media(prefers-reduced-motion:reduce){.moving{display:none}}</style>
+<path d="M8 24h375l13-8 12 16 15-24 14 32 12-16h583" fill="none" stroke="url(#a)" stroke-width="2" opacity=".7"/>
+<circle class="moving" r="4" fill="#5ceaff"><animateMotion dur="8s" repeatCount="indefinite" path="M8 24h375l13-8 12 16 15-24 14 32 12-16h583"/></circle>
+</svg>
