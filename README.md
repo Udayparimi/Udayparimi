@@ -61,15 +61,15 @@ I’m Uday, a first-year MCA student at **CHRIST (Deemed to be University), Beng
 <summary>Contribution snake and 3D calendar</summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/snake-light.svg" alt="Animated snake traversing the GitHub contribution grid">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Udayparimi/Udayparimi/raw/refs/heads/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Udayparimi/Udayparimi/raw/refs/heads/output/snake-light.svg">
+  <img src="https://github.com/Udayparimi/Udayparimi/raw/refs/heads/output/snake-light.svg" alt="Animated snake traversing the GitHub contribution grid">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/calendar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/calendar-light.svg">
-  <img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/calendar-light.svg" alt="Isometric calendar of GitHub contributions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Udayparimi/Udayparimi/raw/refs/heads/output/calendar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Udayparimi/Udayparimi/raw/refs/heads/output/calendar-light.svg">
+  <img src="https://github.com/Udayparimi/Udayparimi/raw/refs/heads/output/calendar-light.svg" alt="Isometric calendar of GitHub contributions">
 </picture>
 
 </details>
