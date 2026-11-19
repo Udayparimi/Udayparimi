@@ -1,6 +1,6 @@
 # Uday Raghavendra
 
-![Animated 3D wireframe beside the name Uday Raghavendra](profile-motion.gif)
+![Uday Raghavendra — animated orbital scene with stacked 3D layers](profile-orbit.gif)
 
 I build full-stack web applications and use Python notebooks to explore forecasting and classification.
 
@@ -8,16 +8,30 @@ I build full-stack web applications and use Python notebooks to explore forecast
 
 ## Applied machine learning
 
+[![Animated isometric forecast bars](project-forecast.gif)](https://github.com/Udayparimi/sales-forecasting-arima-prophet-lstm)
+
 - [**Sales forecasting**](https://github.com/Udayparimi/sales-forecasting-arima-prophet-lstm) — Daily grocery sales forecasting on Kaggle Store Sales using SARIMAX, Prophet, and LSTM. `Python · Jupyter`
+
+[![Animated isometric classification grid](project-churn.gif)](https://github.com/Udayparimi/customer-churn-prediction)
+
 - [**Customer churn prediction**](https://github.com/Udayparimi/customer-churn-prediction) — Telco churn classification with logistic regression, random forest, and XGBoost. `Python · Jupyter`
+
 
 ## Full-stack apps
 
+[![Animated isometric campus event tiles](project-campus.gif)](https://github.com/Udayparimi/Campus-event-management)
+
 - [**Campus events & workshops**](https://github.com/Udayparimi/Campus-event-management) — Student event discovery and registration, with a role-based admin workflow. `React · Express · MongoDB · JWT`
+
 - [**Campus events · FSD-ETE**](https://github.com/Udayparimi/FSD-ETE) — The same campus events system is documented in this repository. `React · Express · MongoDB · JWT`
+[![Animated isometric project board](project-student.gif)](https://github.com/Udayparimi/FSD-CIA-3)
+
 - [**Student project tracker**](https://github.com/Udayparimi/FSD-CIA-3) — A MERN app with a project form and list for tracking student projects. `React · Express · MongoDB`
 
+
 ## Hotel tracker builds
+
+[![Animated isometric hotel tracker stack](project-hotel.gif)](https://github.com/Udayparimi/FSD-Lab9-10)
 
 A series of builds that covers responsive pages, browser storage, APIs, and React and Next.js frontends.
 
@@ -28,7 +42,6 @@ A series of builds that covers responsive pages, browser storage, APIs, and Reac
 | [Hotel tracker · Lab 2](https://github.com/Udayparimi/Hotel-Payment-Tracker-Lab2) — Payment modal, dashboard, reports and browser local storage. | [Hotel tracker · Lab 7](https://github.com/Udayparimi/hotel-payment-tracker-Lab7) — React project in the hotel-tracker-react directory. |
 | [Hotel tracker · Lab 3](https://github.com/Udayparimi/Hotel-Payment-Tracker-Lab3) — Customer registration with form validation and local storage. | [Hotel tracker · FSD Lab 8](https://github.com/Udayparimi/FSD-Lab8) — Static staff dashboard with REST APIs and optional email sending. |
 | [Hotel tracker · Lab 4](https://github.com/Udayparimi/Hotel-Payment-Tracker-Lab4) — Payment CRUD with reports and analytics that update as records change. | [Hotel tracker · React rewrite](https://github.com/Udayparimi/FSD-Lab08) — Five static pages reworked into a React Router single-page app. |
-| | [Hotel tracker · Next.js rewrite](https://github.com/Udayparimi/FSD-Lab9-10) — App Router rewrite with file-based routes and server-rendered pages. |
 
 ## Profile source
 
