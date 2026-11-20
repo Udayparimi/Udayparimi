@@ -329,11 +329,34 @@ MERN · JWT · QR passes
 
 <details class="plain-profile"><summary>Bio, education and skills in text</summary><p>I’m Uday. I compare forecasting and churn models in Python and build web apps for payments and campus events. My goal is a data analyst role.</p><p>First-year MCA at CHRIST (Deemed to be University), Bengaluru. BCA in Data Science from Acharya Institute of Graduate Studies, Bengaluru, 2023–2026.</p><ul><li><strong>Languages</strong> · Python · SQL · JavaScript · C · data structures</li><li><strong>Web</strong> · React · Next.js · Express · Node.js</li><li><strong>Data and databases</strong> · Pandas · Prophet · SARIMAX · LSTM · MongoDB · MySQL · Oracle</li><li><strong>Tools</strong> · Jupyter Notebook · Vite · GitHub</li></ul></details>
 
+<a name="jump-contact"></a>
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="docs/flipdot/contact-dark.svg"><img src="docs/flipdot/contact-light.svg" alt="Contact"></picture>
+
+<p>
+<a href="https://www.linkedin.com/in/udaya-raghavendra-9a846137b/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="docs/folio/contact-linkedin-still.svg"><img src="docs/folio/contact-linkedin.svg" width="411" alt="LinkedIn — open Uday’s profile"></picture></a>
+<a href="https://github.com/Udayparimi?tab=repositories"><picture><source media="(prefers-reduced-motion: reduce)" srcset="docs/folio/contact-github-still.svg"><img src="docs/folio/contact-github.svg" width="411" alt="GitHub — browse Uday’s repositories"></picture></a>
+</p>
+
+<a name="jump-pinned-projects"></a>
+
+## <picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/index-mobile-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/index-still.svg"><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/index-mobile.svg"><img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/index.svg" alt="Pinned projects" width="100%"></picture>
+
+<p>
+<a href="https://github.com/Udayparimi/customer-churn-prediction"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/churn-mobile-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/churn-still.svg"><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/churn-mobile.svg"><img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/churn.svg" alt="Customer churn. Compare three classifiers on Telco customer data. Python · XGBoost. Open customer-churn-prediction." width="100%"></picture></a><br>
+<a href="https://github.com/Udayparimi/sales-forecasting-arima-prophet-lstm"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/forecast-mobile-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/forecast-still.svg"><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/forecast-mobile.svg"><img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/forecast.svg" alt="Sales forecasting. Compare grocery forecasts on a 90-day holdout. Prophet · SARIMAX · LSTM. Open sales-forecasting-arima-prophet-lstm." width="100%"></picture></a><br>
+<a href="https://github.com/Udayparimi/Campus-event-management"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/campus-mobile-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/campus-still.svg"><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/campus-mobile.svg"><img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/campus.svg" alt="Campus events. Student registration and admin tools. React · Express · JWT. Open Campus-event-management." width="100%"></picture></a><br>
+<a href="https://github.com/Udayparimi/FSD-CIA-3"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/student-mobile-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/student-still.svg"><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/student-mobile.svg"><img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/student.svg" alt="Student project tracker. Track projects from proposal to completion. React · Express · MongoDB. Open FSD-CIA-3." width="100%"></picture></a><br>
+<a href="https://github.com/Udayparimi/FSD-Lab5-and-6"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/hotel-mobile-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/hotel-still.svg"><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/hotel-mobile.svg"><img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/main/docs/pins/hotel.svg" alt="HotelPay. Hotel payments and bookings. React · Express · MongoDB. Open FSD-Lab5-and-6." width="100%"></picture></a>
+</p>
+
 <a name="jump-github-activity"></a>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="docs/flipdot/github-activity-dark.svg"><img src="docs/flipdot/github-activity-light.svg" alt="GitHub activity"></picture>
 
-<a href="https://github.com/Udayparimi/Udayparimi/commits/main/"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="docs/folio/history-mobile-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="docs/folio/history-still.svg"><source media="(max-width: 600px)" srcset="docs/folio/history-mobile.svg"><img src="docs/folio/history.svg" width="100%" alt="Three commits in the profile repository. 607fc46 launched the profile, 8beafec triggered contribution graphics, and b03c12e linked the graphics."></picture></a>
+<a href="https://github.com/Udayparimi/Udayparimi/blob/output/activity-summary.md"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/activity-mobile-still.svg"><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/activity-still.svg"><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/activity-mobile.svg"><img src="https://raw.githubusercontent.com/Udayparimi/Udayparimi/output/activity.svg" alt="GitHub contribution counts by day and recent activity. Open the text summary for dates and counts." width="100%"></picture></a>
+
+[Activity in text](https://github.com/Udayparimi/Udayparimi/blob/output/activity-summary.md) · [GitHub’s daily counts](https://github.com/users/Udayparimi/contributions)
 
 <details>
 <summary><strong>Stats, languages, streak and contribution calendar</strong></summary>
@@ -367,12 +390,3 @@ MERN · JWT · QR passes
 [View contributions on GitHub](https://github.com/Udayparimi)
 
 </details>
-
-<a name="jump-contact"></a>
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="docs/flipdot/contact-dark.svg"><img src="docs/flipdot/contact-light.svg" alt="Contact"></picture>
-
-<p>
-<a href="https://www.linkedin.com/in/udaya-raghavendra-9a846137b/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="docs/folio/contact-linkedin-still.svg"><img src="docs/folio/contact-linkedin.svg" width="411" alt="LinkedIn — open Uday’s profile"></picture></a>
-<a href="https://github.com/Udayparimi?tab=repositories"><picture><source media="(prefers-reduced-motion: reduce)" srcset="docs/folio/contact-github-still.svg"><img src="docs/folio/contact-github.svg" width="411" alt="GitHub — browse Uday’s repositories"></picture></a>
-</p>
