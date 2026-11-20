@@ -120,10 +120,10 @@ def calendar_strip(weeks, x, y, width, mobile):
     for index, week in enumerate(weeks):
         first = week[0][0]
         month = first.month
-        if (index == 0 or month != last_month) and index - last_label >= 3:
+        if month != last_month and index - last_label >= 3:
             result.append(label(first.strftime("%b"), round(x + index*pitch), y-12, 12, "#c1ccdc", mono=True))
             last_label = index
-        last_month = month
+            last_month = month
         for day, n in week:
             weekday = (day.weekday() + 1) % 7
             result.append(cell(x + index*pitch, y + weekday*12.4, n, size))
@@ -204,7 +204,9 @@ def save(owner, snapshot, target):
     title, items = recent_activity(owner, snapshot.get("events", []), days)
     target.mkdir(parents=True, exist_ok=True)
     for mobile, name in [(False,"activity.svg"),(True,"activity-mobile.svg")]:
-        (target/name).write_text(render(owner,snapshot,mobile),encoding="utf-8")
+        svg = render(owner,snapshot,mobile)
+        (target/name).write_text(svg,encoding="utf-8")
+        (target/name.replace(".svg","-still.svg")).write_text(re.sub(r"<style>.*?</style>","",svg),encoding="utf-8")
     summary = ["# GitHub contribution activity", "",
                f'{snapshot["total"]:,} contributions from {date_label(days[0][0])} through {date_label(days[-1][0])}.',
                "", "## " + title, ""]

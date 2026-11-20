@@ -48,7 +48,7 @@ jobs:
           set -eu
           cp profile-3d-contrib/profile-green.svg generated-profile/calendar-light.svg
           cp profile-3d-contrib/profile-night-rainbow.svg generated-profile/calendar-dark.svg
-          for asset in snake-light snake-dark calendar-light calendar-dark activity activity-mobile; do
+          for asset in snake-light snake-dark calendar-light calendar-dark activity activity-mobile activity-still activity-mobile-still; do
             test -s "generated-profile/$asset.svg"
           done
           test -s generated-profile/activity-summary.md
