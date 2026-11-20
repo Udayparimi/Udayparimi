@@ -2,7 +2,9 @@ name: Update profile contribution graphics
 on:
   push:
     branches: [main]
-    paths: [.github/workflows/profile-contributions.yml]
+    paths:
+      - .github/workflows/profile-contributions.yml
+      - .github/scripts/render_activity.py
   workflow_dispatch:
   schedule:
     - cron: '23 21 * * *'
@@ -37,14 +39,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Draw contribution activity from GitHub data
+        run: python3 .github/scripts/render_activity.py generated-profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Collect output
         run: |
           set -eu
           cp profile-3d-contrib/profile-green.svg generated-profile/calendar-light.svg
           cp profile-3d-contrib/profile-night-rainbow.svg generated-profile/calendar-dark.svg
-          for asset in snake-light snake-dark calendar-light calendar-dark; do
+          for asset in snake-light snake-dark calendar-light calendar-dark activity activity-mobile; do
             test -s "generated-profile/$asset.svg"
           done
+          test -s generated-profile/activity-summary.md
       - name: Publish generated graphics to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
